@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I’m Scott
+
+And I’ve been designing things for the web for over 20 years.
 
 <!--
 **thedigitalman/thedigitalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
